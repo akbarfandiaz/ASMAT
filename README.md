@@ -1,2 +1,12 @@
 # ASMAT
-Company website CV.ASMAT
+#Company website CV.ASMAT
+<HTML doctype!>
+<html>
+<head>
+  <link rel="icon" href="">
+  <link rel="stylesheet" href="">
+ </head>
+ <body>
+  <p> Hello, This is Fandiaz</p>
+  </body>
+ </html>
